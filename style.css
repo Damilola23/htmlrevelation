@@ -1,0 +1,95 @@
+body html{
+    height: 100%;
+}
+*/{
+    padding: 0%;
+    margin: 0%;
+}
+.border{
+    border: 20px;
+    background-color: purple;
+    padding-left: 980px;
+}
+.text{
+    color: white;
+}
+.first{
+    background-color: white;
+}
+.navv{
+    /* text-align: end;  */
+    padding-left: 850px;
+    padding-bottom: 1px;
+}
+.bt{
+    background-color: blue;
+}
+.jm{
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: gray;
+}
+.tx{
+    /* padding: 16px 40px; */
+    width: 50%;
+    float: right;
+}
+.i{
+    width: 25%;
+    float: right;
+}
+.ii{
+    width: 25%;
+    float: right;
+}
+.iii{
+    width: 25%;
+    float: right;
+}
+.iv{
+    width: 25%;
+    float: right;
+}
+.word{
+    align-content: center;
+    align-items: center;
+}
+.a{
+    width: 25%;
+    float: right;
+}
+.ab{
+    width: 25%;
+    float: right;
+}
+.abc{
+    width: 25%;
+    float: right;
+}
+.abcd{
+    width: 25%;
+    float: right;
+}
+.d{
+    width: 25%;
+    float: right;
+}
+.da{
+    width: 25%;
+    float: right;
+}
+.db{
+    width: 25%;
+    float: right;
+}
+.dc{
+    width: 25%;
+    float: right;
+}
+.bs{
+    background-color: purple;
+}
+.footer{
+    width: 100%;
+    background-color: aqua;
+}
